@@ -31,7 +31,7 @@ export default function Home() {
       setIsLoading(false);
     }, 2600);
 
-    displayFancyLogs();
+    // displayFancyLogs();
   }, []);
 
   useEffect(() => {

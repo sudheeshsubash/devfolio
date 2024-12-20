@@ -1,18 +1,26 @@
 export const METADATA = {
-  author: "Shubh Porwal",
-  title: "Portfolio | Shubh Porwal",
+  author: "Sudheesh S",
+  title: "Portfolio | Sudheesh s",
   description:
-    "Shubh Porwal is a passionate Frontend Engineer, dedicated to crafting aesthetic and modern apps that captivate and engage users.",
+    "Sudheesh is a passionate software Engineer, dedicated to crafting modern web apps that captivate and engage users.",
   siteUrl: "https://www.shubhporwal.me/",
   twitterHandle: "@shubhporwal24",
   keywords: [
-    "Shubh Porwal",
-    "Frontend Engineer",
-    "React Native Developer",
+    "Sudheesh S",
+    "Software Developer",
+    "Django developer",
+    "Nextjs developer",
+    "REST developer",
+    "React developer",
     "Software Engineer",
     "Portfolio",
-    "Devfolio",
-    "Folio",
+    "gex",
+    "GEX",
+    "Gex",
+    "Gex Solution",
+    "gex solution",
+    "GEX SOLUTION",
+    "gex founder"
   ].join(", "),
   image:
     "https://res.cloudinary.com/dywdhyojt/image/upload/v1721378510/social-preview.png",
@@ -44,9 +52,9 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "A pragmatic Frontend Developer",
-  "I build things for the web",
-  "I create aesthetic and modern apps",
+  "Software Developer.",
+  "Founder Of Gex Solution.",
+  // "I create aesthetic and modern apps",
 ];
 
 export const SOCIAL_LINKS = [
@@ -78,25 +86,19 @@ export const SKILLS = {
     "css",
     "javascript",
     "typescript",
-    "sass",
+    "python",
     "nodejs",
-    "webpack",
-    "vite",
-    "firebase",
-    "figma",
-    "tanstack-query",
+    'tailwindcss'
   ],
   librariesAndFrameworks: [
     "react",
-    "redux",
     "nextjs",
     "tailwindcss",
-    "styledcomponents",
-    "antdesign",
-    "chakra-ui",
+    "django",
+    "REST"
   ],
-  databases: ["mysql", "mongodb"],
-  other: ["git", "sanity-io"],
+  databases: ["mysql","pgsql", 'mongodb'],
+  other: ["git", ],
 };
 
 export const PROJECTS = [
